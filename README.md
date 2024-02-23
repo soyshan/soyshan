@@ -1,5 +1,6 @@
 ## <p align="center"><b>Hi I'm ShanShan<p><b>
-<div style="background-image: url('./src/nubes-wallpaper.gif'); height: 150px; background-size: cover; background-position: center;">
+<div height: 150px; background-size: cover; background-position: center;">
+![Descripción del GIF](./src/nubes-wallpaper.gif)
 
 </div>
 
