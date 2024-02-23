@@ -1,10 +1,9 @@
 ## <p align="center"><b>Hi I'm ShanShan<p><b>
 <div height: 150px; background-size: cover; background-position: center;">
-![Descripción del GIF](./src/nubes-wallpaper.gif)
+
 
 </div>
-
-
+![Descripción del GIF](./src/nubes-wallpaper.gif)
 
 ## <p align="center"><b>About me<p><b>
 
