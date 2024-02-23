@@ -1,5 +1,5 @@
 ## <p align="center"><b>Hi I'm ShanShan<p><b>
-<div style="background-image: url('https://github.com/soyshan/soyshan/nubes-wallpaper.webp'); height: 150px; background-size: cover; background-position: center;">
+<div style="background-image: url('./src/nubes-wallpaper.gif'); height: 150px; background-size: cover; background-position: center;">
 
 </div>
 
