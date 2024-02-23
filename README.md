@@ -1,5 +1,5 @@
 ## <p align="center"><b>Hi I'm ShanShan<p><b>
-<div style="background-image: url('https://wallpaperaccess.com/full/2641047.gif'); height: 150px; background-size: cover; background-position: center;">
+<div style="background-image: url('https://github.com/soyshan/soyshan/nubes-wallpaper.webp'); height: 150px; background-size: cover; background-position: center;">
 
 </div>
 
@@ -31,6 +31,8 @@ After finishing my degree in audiovisual communication, I decided to study web d
   <a href="https://www.linkedin.com/in/shanshan-bu/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:shanbu131@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email"/></a>
 </p>
+
+
 
 
 
